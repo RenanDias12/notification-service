@@ -30,7 +30,7 @@ $ npm run test
 
 ## 🔖 License
 
-This project is [GNU v3 licensed](../LICENSE).
+This project is [GNU v3 licensed](LICENSE).
 
 ## 👨🏻‍💻 Autor
 
